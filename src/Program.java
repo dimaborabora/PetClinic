@@ -23,6 +23,7 @@ public class Program {
         petClinic.addPetToClient(client3, pet2);
         petClinic.addPetToClient(client3, pet1);
         petClinic.addPetToClient(client4, pet1);
+        petClinic.addPetToClient(client4, pet3);
 
 
         System.out.println();
